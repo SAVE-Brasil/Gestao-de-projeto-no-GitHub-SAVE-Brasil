@@ -1,5 +1,5 @@
 (() => {
-  const BUILD_ID = "d952d3856aa553bd";
+  const BUILD_ID = "db3438d4f40334bc";
   const KEY_NAME = "quarto-lock:key:" + BUILD_ID;
 
   function rawKey() {
